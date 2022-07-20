@@ -10,7 +10,7 @@
 
 - Because of **its relation to JavaScript**(It’s just extended JavaScript). While Dart and CoffeeScript are new languages. You can rename the .js extension to .ts and it will work perfectly fine.
 - Optional static typing and type interface. *[JS is a dynamically typed language so it doesn’t know the type until run-time. While TS on other hand identifies the type errors as soon as you type or compile it. Which results in less error-prone code. Specifying type is completely optional.]*
-- IDE Support*[IntelliSense support, refactoring the code easily. shows error straight away whenever it detects and shows red line underneath]*
+- IDE Support *[IntelliSense support, refactoring the code easily. shows error straight away whenever it detects and shows red line underneath]*
 - Rapid growth and use
 
 ## Environment Setup
