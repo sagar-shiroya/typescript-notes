@@ -1,5 +1,3 @@
-# TypeScript
-
 ## What is Typescript?
 
 - Open source programming language from Microsoft
